@@ -1,6 +1,6 @@
 # Login
 
-![preview](./.github/preview.png)
+![preview](./assets/preview.png)
 
 
  >Tela de Login
